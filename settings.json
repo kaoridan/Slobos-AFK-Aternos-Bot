@@ -1,14 +1,14 @@
 {
   "name": "afkbot123",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "cantbethatbad",
     "password": "afkbot247",
     "type": "offline"
   },
   "server": {
     "ip": "cloudninesmp.mcsh.io",
     "port": 25565,
-    "version": "1.21.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
